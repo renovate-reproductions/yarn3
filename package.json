@@ -1,4 +1,7 @@
 {
   "name": "yarn3",
-  "packageManager": "yarn@3.4.1"
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
 }
